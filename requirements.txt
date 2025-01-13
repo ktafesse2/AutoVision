@@ -1,0 +1,9 @@
+torch
+torchvision
+ultralytics
+opencv-python
+PyQt5
+playsound
+win10toast
+mss
+Pillow

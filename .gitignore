@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+
+automation_output/
+yolov5s.pt
